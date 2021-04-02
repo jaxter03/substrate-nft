@@ -1,15 +1,17 @@
 # Substrate based Blockchain for NFTs
-## About the Project
+![proj_ksr](https://user-images.githubusercontent.com/40355376/113419666-87331d80-93e5-11eb-9095-de00e88ad055.jpg)
+
+## About the Project :rocket:
 In this Project, Blockchain is designed to handle NFTs using Substrate Framework. It implements a protocol defined by ERC721.org to allow unique tokens to be managed, owned, and traded. It also has pallets provided by Chainsafe's Chainbridge to transfer an asset from this Blockchain to Ethereum Blockchain and vice-versa.
 
-## Tech
+## Tech :muscle:
 This Project uses a number of open-source projects to work properly:
 
 - [Rust](https://www.rust-lang.org/) - Rust is blazingly fast and memory-efficient. It can power performance-critical services.
 - [Substrate](https://github.com/paritytech/substrate) - Substrate is a next-generation framework for blockchain innovation.
 - [rocket-rs](https://rocket.rs/) - Rocket is a web framework for Rust that makes it simple to write fast, secure web applications.
 - [Chainsafe's Chainbridge](https://github.com/ChainSafe/ChainBridge) - ChainBridge is an extensible cross-chain communication protocol. It currently supports bridging between EVM and Substrate based chains.
-## Getting Started
+## Getting Started :telescope:
 
 This project contains some configuration files to help get started :hammer_and_wrench:
 
@@ -77,18 +79,18 @@ RUST_LOG=debug RUST_BACKTRACE=1 ./target/release/node-nft-pallet -lruntime=debug
 Follow the [Prerequisites](https://chainbridge.chainsafe.io/local/) provided by Chainsafe to install Chainbridge.
 
 
-## Roadmap
+## Roadmap :watch:
 - [x] Setting up Blockchain with PoA (Aura) Consensus.
 - [x] Install Pallet to handle NFTs.
 - [ ] Install Pallet to handle Multiple types of Bidding.
 - [ ] Create APIs to interact with Blockchain and Database.
 - [ ] Frontend Integration.
 
-## License
+## License :pushpin:
 
 Distributed under the MIT License. See `LICENSE` for more information
 
 
-## Contact
+## Contact :smile:
 
 [@ksr30](https://www.linkedin.com/in/krishna-singh-b37671170/) - krishna.singh9926@gmail.com
