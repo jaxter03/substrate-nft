@@ -82,6 +82,7 @@ Follow the [Prerequisites](https://chainbridge.chainsafe.io/local/) provided by 
 ## Roadmap :watch:
 - [x] Setting up Blockchain with PoA (Aura) Consensus.
 - [x] Install Pallet to handle NFTs.
+- [x] Integrate Chainsafe's Chainbridge.
 - [ ] Install Pallet to handle Multiple types of Bidding.
 - [ ] Create APIs to interact with Blockchain and Database.
 - [ ] Frontend Integration.
